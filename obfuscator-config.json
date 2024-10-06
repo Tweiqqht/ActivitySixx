@@ -1,0 +1,14 @@
+{
+    "compact": true,
+    "controlFlowFlattening": true,
+    "debugProtection": true,
+    "debugProtectionInterval": 5000,
+    "disableConsoleOutput": true,
+    "identifierNamesGenerator": "hexadecimal",
+    "log": false,
+    "renameGlobals": false,
+    "selfDefending": true,
+    "sourceMap": false,
+    "splitStrings": true,
+    "splitStringsChunkLength": 5
+  }
